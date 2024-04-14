@@ -1,0 +1,19 @@
+.input-container {
+  position: relative;
+}
+
+
+.error-icon {
+  display: none;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 20px;
+  position: absolute;
+  right: 15px;
+  top: 60%;
+  transform: translateY(-20%);
+  cursor: pointer;
+}
